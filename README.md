@@ -1,7 +1,7 @@
 # 😼 Bem vindo ao meu GitHub, lar de meus primeiros passos, fique a vontade e veja minha trilha rumo ao programador Rank S✨
 
 <div>
-  <img src = "background.webp" widht = "325px" aling = "right">
+  <img src = "background.webp" widht = "400px" aling = "right">
 </div>
 
 - Estudante na <a href="https://unileste.catolica.edu.br/portal/" target="_blank"> <img src = "unileste.jpeg" widht = "70px" height = "20" > </a>
