@@ -2,8 +2,11 @@
 
 <div>
   <style>
-p {
+body {
   background-image: url('background.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
 }
 </style>
 </div>
