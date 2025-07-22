@@ -1,8 +1,8 @@
+# 😼 Bem vindo ao meu GitHub, lar de meus primeiros passos, fique a vontade e veja minha trilha rumo ao programador Rank S✨
+
 <div>
 <img src = "tenor (1).gif" width = "325px" align = "rigth">
 </div>
-
-# 😼 Bem vindo ao meu GitHub, lar de meus primeiros passos, fique a vontade e veja minha trilha rumo ao programador Rank S✨
 
 - Estudante na <a href="https://unileste.catolica.edu.br/portal/" target="_blank"> <img src = "unileste.jpeg" widht = "70px" height = "20" > </a>
 
