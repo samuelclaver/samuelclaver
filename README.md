@@ -4,7 +4,7 @@
 
 # 😼 Bem vindo ao meu GitHub, lar de meus primeiros passos, fique a vontade e veja minha trilha rumo ao programador Rank S✨
 
-- Estudante na Unileste  <img src = "unileste.jpeg" widht = 50 height = 25>
+- Estudante na [UNILESTE](https://unileste.catolica.edu.br/portal/)  <img src = "unileste.jpeg" widht = 70 height = 15>
 
 
 <div>
