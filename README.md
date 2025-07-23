@@ -1,7 +1,10 @@
 # 😼 Bem vindo ao meu GitHub, lar de meus primeiros passos, fique a vontade e veja minha trilha rumo ao programador Rank S✨
 
 
-  <img src = "background.png" widht = "1000px" aling = "right">
+  <img src = "background.png" widht = "800" height ="500" aling = "right">
+
+
+---
 
 - 😼 Desnvolvedor Front End
 - 😽 Estudante na <a href="https://unileste.catolica.edu.br/portal/" target="_blank"> <img src = "unileste.jpeg" widht = "70px" height = "20px" > </a>
