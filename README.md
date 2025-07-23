@@ -1,4 +1,6 @@
-# 😼 Bem vindo ao meu GitHub, lar de meus primeiros passos, fique a vontade e veja minha trilha rumo ao programador Rank S✨
+# Samuel Claver de Oliveira
+**`Desenvolvedor Front-end`**
+## 😼 Bem vindo ao meu GitHub, lar de meus primeiros passos, fique a vontade e veja minha trilha rumo ao programador Rank S✨
 
 
   <img src = "background.png" widht = "800" height ="500" aling = "right">
