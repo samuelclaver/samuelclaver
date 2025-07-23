@@ -3,9 +3,12 @@
 
   <img src = "background.png" widht = "1000px" aling = "right">
 
-
-- Estudante na <a href="https://unileste.catolica.edu.br/portal/" target="_blank"> <img src = "unileste.jpeg" widht = "70px" height = "20px" > </a>
-
+- 😼 Desnvolvedor Front End
+- 😽 Estudante na <a href="https://unileste.catolica.edu.br/portal/" target="_blank"> <img src = "unileste.jpeg" widht = "70px" height = "20px" > </a>
+- 🐱‍👤 Técnico em Análise e Desenvolvimento de Sistemas
+- 🤖 Aprendendo algo sobre Back End
+  
+---
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
