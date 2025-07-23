@@ -8,8 +8,6 @@
   </a>
 </div>
 
-  <img src = "background.png" widht = "800" height ="500" aling = "right">
-
 
 ---
 Sou desenvolvedor focado em Front-end através da elaboração e construção de sites, e atualmente busco tambem a minha proeficiência como FullStack.
