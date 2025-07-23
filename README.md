@@ -7,10 +7,10 @@
 ---
 Sou Desenvolvedor focado em Front End através da elaboração e construção de sites, e atualmente busco tambem a minha proeficiência como FullStack
 
-- 😼 Desnvolvedor Front End
+- 😼 Desnvolvedor Front-end
 - 😽 Estudante na <a href="https://unileste.catolica.edu.br/portal/" target="_blank"> <img src = "unileste.jpeg" widht = "70px" height = "20px" > </a>
 - 🐱‍👤 Técnico em Análise e Desenvolvimento de Sistemas
-- 🤖 Aprendendo algo sobre Back End
+- 🤖 Aprendendo algo sobre Back-end
   
 ---
 
