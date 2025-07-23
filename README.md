@@ -4,7 +4,7 @@
   <img src = "background.png" widht = "1000px" aling = "right">
 
 
-- Estudante na <a href="https://unileste.catolica.edu.br/portal/" target="_blank"> <img src = "unileste.jpeg" widht = "70px" height = "20" > </a>
+- Estudante na <a href="https://unileste.catolica.edu.br/portal/" target="_blank"> <img src = "unileste.jpeg" widht = "70px" height = "20px" > </a>
 
 
 <div>
