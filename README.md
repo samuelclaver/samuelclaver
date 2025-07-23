@@ -3,7 +3,7 @@
 ## 😼 Bem vindo ao meu GitHub, lar de meus primeiros passos, fique a vontade e veja minha trilha rumo ao programador Rank S✨
 
 <div>
-<a href = "www.linkedin.com/in/samuel-claver-de-oliveira" target = "_blank">
+<a href = "https://www.linkedin.com/in/samuel-claver-de-oliveira" target = "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
